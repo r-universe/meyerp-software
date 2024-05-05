@@ -5,6 +5,3 @@
 [submodule "infotheo"]
 	path = infotheo
 	url = https://github.com/cran/infotheo
-[submodule "minet"]
-	path = minet
-	url = https://git.bioconductor.org/packages/minet
